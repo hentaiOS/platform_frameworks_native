@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "70cf7d78_514d9da0",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2023-01-16T15:02:14Z",
+      "side": 1,
+      "message": "\"depends\"",
+      "range": {
+        "startLine": 10,
+        "startChar": 3,
+        "endLine": 10,
+        "endChar": 13
+      },
+      "revId": "60fd63d7bfdfa03591c0177bc27efa4e6c429dd1",
+      "serverId": "90ec3431-229f-4ad1-9645-e5b063dc3de3"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "928a3173_f14c8469",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2023-01-16T15:02:14Z",
+      "side": 1,
+      "message": "Except for the commit description that requires a bit of fix, ACK LGTM.",
+      "revId": "60fd63d7bfdfa03591c0177bc27efa4e6c429dd1",
+      "serverId": "90ec3431-229f-4ad1-9645-e5b063dc3de3"
+    }
+  ]
+}
